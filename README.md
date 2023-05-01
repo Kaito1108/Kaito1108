@@ -1,8 +1,12 @@
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojake&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kojake&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=kojake&show_icons=true" />
+</a>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=kojake&theme=onedark&column=7
-)](https://github.com/ryo-ma/github-profile-trophy)
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojake&layout=compact" />
+</a>
+
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+  <img src="https://github-profile-trophy.vercel.app/?username=kojake&title=Joined2020,Commit,PullRequest,Repositories,Issues" />
+</a>
 
