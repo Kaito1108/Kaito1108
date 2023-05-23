@@ -1,8 +1,8 @@
 # Profile
-<p align="center"> 
-  <img align="center" src="https://github-profile-trophy.vercel.app/?username=kojake&theme=algolia&no-frame=true&row=1&column=6&margin-w=6&no-bg=true" />
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojake&layout=compact&count_private=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kojake&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
-<p align="center"> 
-  <img align="center" height="150px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api?username=kojake&theme=outrun&show_icons=true&count_private=true"/>
-  <img align="center" height="150px" src="https://git-hub-readme-stats-clone-gpqp.vercel.app/api/top-langs/?username=kojake&layout=compact&hide=html,css&theme=outrun" />
-</p>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=kojake&theme=onedark&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
