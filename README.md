@@ -7,4 +7,4 @@
 [![trophy](https://github-profile-trophy.vercel.app/?username=kojake&theme=onedark&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
-![](https://media0.giphy.com/media/RgutegYIHk2Nhxj4m5/giphy.gif?cid=ecf05e47ow0hj823lqbqjhx6gkgk2pzwwdwy2mohaieerbva&ep=v1_gifs_related&rid=giphy.gif&ct=s)
+![](https://media3.giphy.com/media/smGpsxCQzXwDS/giphy.gif?cid=ecf05e479djyuiqybt00a4k12xyqoo80ojqxrlmfm1ok82bd&ep=v1_gifs_search&rid=giphy.gif&ct=g)
