@@ -1,5 +1,9 @@
-# my achievements
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojake&layout=compact&count_private=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kojake&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
+<a href="https://github.com/kojake/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
+<a href="https://github.com/kojake/github-profile-trophy">
+  <img width=800 src="https://github-profile-trophy.vercel.app/?username=kojake&column=8&theme=gruvbox&no-frame=true"/>
+</a>
+
+<div>
+  <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=kojake&count_private=true&include_all_commits=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojake&layout=compact" />
+</div>
