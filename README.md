@@ -8,8 +8,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kojake&layout=compact" />
 </div>
 
-<p>
-
 <h1>SKILL💪</h1>
 
 [![My Skills](https://skillicons.dev/icons?i=swift,python,html,css,flask,github,firebase)](https://skillicons.dev)
