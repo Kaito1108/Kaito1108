@@ -10,6 +10,6 @@
 
 <h1>SKILL💪</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=swift,python,html,css,flask,github,firebase)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,python,html,css,flask,github,firebase,figma,vscode)](https://skillicons.dev)
 
 ![](https://media.giphy.com/media/VLqL80oOjQal1a2UUu/giphy.gif)
