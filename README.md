@@ -1,3 +1,5 @@
+<h1>Good Morning!! <p> My name is "Kaito" Nice to meet you!!</h1>
+
 <a href="https://github.com/kojake/github-profile-trophy"><h2>🏆 Github Profile Trophy</h2></a>
 <a href="https://github.com/kojake/github-profile-trophy">
   <img width=800 src="https://github-profile-trophy.vercel.app/?username=kojake&column=8&theme=gruvbox&no-frame=true"/>
@@ -11,7 +13,9 @@
 
 [![My Skills](https://skillicons.dev/icons?i=swift,python,html,css,flask,github,firebase,figma,vscode,bots,vercel)](https://skillicons.dev)
 
-![](https://media.giphy.com/media/VLqL80oOjQal1a2UUu/giphy.gif)
+[![](https://github-readme-streak-stats.herokuapp.com/?user=kojake&theme=★★★)](https://github-readme-streak-stats.herokuapp.com/?user=kojake&theme=★★★)
 
 <h1>MY Official Site</h1>
 https://kojake.github.io/Kaito-officialSite/
+
+![](https://media.giphy.com/media/VLqL80oOjQal1a2UUu/giphy.gif)
