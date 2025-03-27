@@ -15,7 +15,4 @@
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kaito1108&theme=★★★)](https://github-readme-streak-stats.herokuapp.com/?user=kaito1108&theme=★★★)
 
-<h1>MY Official Site</h1>
-https://kaito1108.github.io/Kaito-officialSite/
-
 ![](https://media.giphy.com/media/VLqL80oOjQal1a2UUu/giphy.gif)
