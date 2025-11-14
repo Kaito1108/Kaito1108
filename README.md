@@ -11,7 +11,7 @@
 
 <h1>SKILL💪</h1>
 
-[![My Skills](https://skillicons.dev/icons?i=swift,python,html,css,js,flask,github,firebase,supabase,gcp,vercel,vim,react,ts)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=swift,flutter,python,flask,github,firebase,supabase,gcp,vercel,vim)](https://skillicons.dev)
 
 [![](https://github-readme-streak-stats.herokuapp.com/?user=kaito1108&theme=★★★)](https://github-readme-streak-stats.herokuapp.com/?user=kaito1108&theme=★★★)
 
