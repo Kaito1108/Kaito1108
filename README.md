@@ -6,7 +6,7 @@
 </a>
 
 <div>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaito1108&layout=compact" />
+  <img src="https://github-readme-stats.shion.dev/api/top-langs/?username=kaito1108&layout=compact" />
 </div>
 
 <h1>SKILL💪</h1>
